@@ -8,5 +8,3 @@ Lista de tecnologias utilizadas no projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Mantine](https://mantine.dev/)
-
-
